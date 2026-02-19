@@ -11,9 +11,4 @@ Aplicación de consola en Node.js que implementa un sistema de gestión de inven
   - Eliminar
 - Carga inicial desde texto
 - Interfaz interactiva por consola (CLI)
-- Reglas de negocio automatizadas:
-  - Agregar "Azucena" si existe "Margarita"
-  - Reemplazar "Orquídea" por "Clavel"
-  - Agregar "Girasol" si no existe
-  - Ordenar alfabéticamente
-- Manejo básico de errores
+
